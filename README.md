@@ -1,4 +1,4 @@
-<p align="center" id="topo"> <img width="300" src=".assets/assetsimages/assetsimagescontentinverted-worldpng/logo.png"/> </p>
+ <p align="center" id="topo"> <img width="300" src=".assets/assetsimages/assetsimagescontentinverted-worldpng/logo.png"/> </p>
 
 Construindo um Landing Page com HTML CSS e JS
 
