@@ -1,4 +1,4 @@
-<p align="center" id="topo"> <img width="300" src="./assets/images/readme/logo.png"/> </p>
+<p align="center" id="topo"> <img width="300" src=".assets/assetsimages/assetsimagescontentinverted-worldpng/logo.png"/> </p>
 
 Construindo um Landing Page com HTML CSS e JS
 
@@ -99,10 +99,10 @@ body::-webkit-scrollbar-thumb {
 > Também criei um favicon para a página
 
 
-<h1 align="center" id="imagens">Imagens</h1>
+<h1 align="center" id="imagens">Imagens</h1>/
 
 <p align="center">
-<img width="300" src="./assets/images/favicon.png">
+<img width="300" src="./assets/assetsimages/red/favicon .">
 </p>
 
 <p align="center">
@@ -111,11 +111,11 @@ body::-webkit-scrollbar-thumb {
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
 <p align="center">
-<img align="center" width="500" id='pagefulldarktheme' src='./assets/images/readme/pagefulldark.png'>
+<img align="center" width="500" id='pagefulldarktheme' src='./assets/assetsimages/red/pagefulldark .png.'>
 </p>
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
 <p align="center">
-<img align="center" width="500" id='pagefulldarktheme' src='./assets/images/readme/scrollbar.jpg'>
+<img align="center" width="500" id='pagefulldarktheme' src='./assets/assetsimages/red/scrollbar .jpg'>
 </p>
 <h4 align="right"><a href="#topo">Topo</a></h4>
